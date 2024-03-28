@@ -13,4 +13,5 @@ git commit 관련 내용 정리
 - 그 후, git push origin main 실행!
 
 git init - git status - .gitignore 파일 생성 - git add * - git status - git commit -m "메시지" - 파일 변경 후 git diff - 한글 깨지면 set LC_ALL=C.UTF-8 - git restore templates/base.html - git log
--> git remote add origin https://github.com/pahkey/pybo.git - git push -u origin main
+   
+-> git remote add origin https://github.com/사용자명/pybo.git - git push -u origin main
