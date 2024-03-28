@@ -11,3 +11,5 @@ git commit 관련 내용 정리
 - git show-ref 로 master인지 main인지 맨 마지막 단어 확인
 - 나는 master를 main으로 변경 위해: git branch -m master main
 - 그 후, git push origin main 실행!
+
+git init - git status - .gitignore 파일 생성 - git add * - git status - git commit -m "메시지" - 파일 변경 후 git diff - 한글 깨지면 set LC_ALL=C.UTF-8 - git restore templates/base.html - git log
